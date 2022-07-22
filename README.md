@@ -1,4 +1,4 @@
-# flask-basix-template
+# flask-basic-template
 
 A simple flask app with firebase initialization<br /><br />
 
